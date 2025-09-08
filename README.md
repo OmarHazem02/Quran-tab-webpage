@@ -48,7 +48,7 @@ Special thanks to **Almdrasa** and **Mohamed Abusrea** for guidance and mentorsh
 ## 🖼️ Screenshot
 
 ### 🖥️ Desktop Version
-<img src="qurantabscreenshotdesktop.jpg" alt="Desktop version">
+<img src="qurantabscreenshotdesktopver.jpg" alt="Desktop version">
 
 ### 📱 Mobile Version
 <img src="qurantabscreenshotphone.jpg" alt="Mobile version" >
